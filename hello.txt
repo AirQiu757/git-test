@@ -3,3 +3,5 @@ hello git
 hello git
 hot-fix fixed
 merge test in master branch
+merge test in hot-fix branch
+
